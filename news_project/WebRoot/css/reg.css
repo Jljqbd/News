@@ -1,0 +1,11 @@
+#d1{
+    width: 100%;
+    height: 516px;
+    background: url(../images/BingPicture_20200318.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
